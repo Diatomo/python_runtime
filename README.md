@@ -7,15 +7,15 @@ To Run ::
 
 	'python main.py <options> <path>'
 
-	path (e.g. ~/Documents)
+	path (e.g. '~/Documents')
 
 	Optional Filters ::
 
 	-f <pattern>
-	pattern (e.g. .mp3)
+	pattern (e.g. '.mp3')
 
 	-s <size>
-	size (e.g. 5000)
+	size (e.g. '5000')
 
 	successful execution may look like:
 
