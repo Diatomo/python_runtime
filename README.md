@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 
 Author :: Charles Stevenson
 Date :: 02.18.2019
@@ -76,5 +74,3 @@ Demonstrate execution time.  How might this be improved?
 	could help a search in filtering out unecessary steps. 
 =======
 # python_runtime
-runtime python problem for an application
->>>>>>> 72cbe399f690d0ad02424bc350e8096e81db36ce
