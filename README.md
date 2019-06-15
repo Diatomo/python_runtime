@@ -1,6 +1,6 @@
 
 
-This was an example program for an application
+This was an example program for an application. It is searches for a particular string recursively through nested directories.
 
 Author :: Charles Stevenson  
 Date :: 02.18.2019
